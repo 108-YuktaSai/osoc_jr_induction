@@ -1,0 +1,3 @@
+To resolve the merge conflict, i opened the text file, then removed the conflict dividers.
+Then saved the file. added and committed to main branch.
+Merge conflict was resolved.
