@@ -1,0 +1,30 @@
+commit f158dcaba089a0c6fac290606086a9614d42d7ed
+Author: 108-YuktaSai <yuktasai0612@gmail.com>
+Date:   Fri Jan 7 19:50:33 2022 +0530
+
+    wrote the steps to resolve
+
+commit 8f698c0b748a876bc456b28d1a2388d536e42dea
+Merge: 5db0bcf 2d6853d
+Author: 108-YuktaSai <yuktasai0612@gmail.com>
+Date:   Fri Jan 7 19:39:49 2022 +0530
+
+    resolved and merged both the files
+
+commit 2d6853df2c6b1d0777ce1c08cf86bad680b5957b
+Author: 108-YuktaSai <yuktasai0612@gmail.com>
+Date:   Fri Jan 7 19:30:00 2022 +0530
+
+    file1 committed in First branch
+
+commit 5db0bcfe085b13f5077b39b8163f2f81fed84539
+Author: 108-YuktaSai <yuktasai0612@gmail.com>
+Date:   Fri Jan 7 19:27:51 2022 +0530
+
+    file1 committed in main branch
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
